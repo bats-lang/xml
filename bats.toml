@@ -1,3 +1,8 @@
 [package]
 name = "wasm.bats-packages.dev/xml"
 kind = "lib"
+
+[dependencies]
+"arith" = ""
+"array" = ""
+"wasm.bats-packages.dev/bridge" = ""
